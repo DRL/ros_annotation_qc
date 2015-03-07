@@ -1,0 +1,8 @@
+##gff-version 3
+##sequence-region Gros_scaffold1000__size23113 1 23113
+one	WebApollo       CDS	1   5	.       +       .       Name=g12059;ID=C97C8A05F53B152E2C14C3DD84A67DD8;owner=smantellin;note=ANNOTATION TYPE: Change to an existi
+one	WebApollo       CDS	6   10	.       +       .       Name=genemark-Gros_scaffold1000__size23113-abinit-gene-0.1-mRNA-1;ID=9DECDBE0DA636843ADEB2DAF48D3461E;owne
+two	WebApollo       CDS	1   3	.       -       .       Name=29C26FEA0EFE8E15125481C1C12000B9;ID=29C26FEA0EFE8E15125481C1C12000B9;owner=smantellin;Parent=9DECDBE0
+three	WebApollo       CDS	1   3	.       -       2       Name=9DECDBE0DA636843ADEB2DAF48D3461E-CDS;ID=9DECDBE0DA636843ADEB2DAF48D3461E-CDS;owner=smantellin;Parent=
+three	WebApollo       CDS	6   11	.       -       .       Name=01757508210EE3E724FCC63A014BA316;ID=01757508210EE3E724FCC63A014BA316;owner=smantellin;Parent=9DECDBE0
+four	gff_parser.py   CDS	1   2	.       +       .       Name=01757508210EE3E724FCC63A014BA316-intron;ID=01757508210EE3
